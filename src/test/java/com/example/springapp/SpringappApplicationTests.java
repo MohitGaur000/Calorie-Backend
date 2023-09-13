@@ -21,7 +21,7 @@ import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 import org.springframework.test.web.servlet.MockMvc;
 import org.springframework.test.web.servlet.request.MockMvcRequestBuilders;
 import org.springframework.test.web.servlet.result.MockMvcResultMatchers;
-
+import com.example.springapp.model.Set;
 import com.example.springapp.model.Exercise;
 import com.example.springapp.model.User;
 import com.example.springapp.model.Workout;
